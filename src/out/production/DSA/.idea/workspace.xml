@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/LongSubPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/LongSubPositivesNeg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,13 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AppearOnce.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntersectionSortedArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeftRotateByOne.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeftRotateKPlaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MoeZeroes.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.RightRotateKPlaces.executor&quot;: &quot;Run&quot;,
@@ -50,6 +54,19 @@
   }
 }</component>
   <component name="RunManager" selected="Application.MissingNumber">
+    <configuration name="AppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.AppearOnce" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntersectionSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.IntersectionSortedArrays" />
       <module name="DSA" />
@@ -63,34 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxConsecOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaxConsecOnes" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.MissingNumber" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoeZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MoeZeroes" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RightRotateKPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RightRotateKPlaces" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -118,10 +122,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.AppearOnce" />
+        <item itemvalue="Application.MaxConsecOnes" />
         <item itemvalue="Application.IntersectionSortedArrays" />
         <item itemvalue="Application.UnionTwoArrays" />
-        <item itemvalue="Application.MoeZeroes" />
-        <item itemvalue="Application.RightRotateKPlaces" />
       </list>
     </recent_temporary>
   </component>
