@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/LongSubPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/LongSubPositivesNeg.java" afterDir="false" />
-    </list>
+    <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +36,8 @@
     &quot;Application.IntersectionSortedArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeftRotateByOne.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeftRotateKPlaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongSubPositive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongSubPositivesNeg.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxConsecOnes.executor&quot;: &quot;Run&quot;,
     &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
@@ -53,7 +52,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/B NAVYA/IdeaProjects/DSA/src&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MissingNumber">
+  <component name="RunManager" selected="Application.IntersectionSortedArrays">
     <configuration name="AppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.AppearOnce" />
       <module name="DSA" />
@@ -80,8 +79,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MaxConsecOnes" />
+    <configuration name="LongSubPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongSubPositive" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongSubPositivesNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongSubPositivesNeg" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -106,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.UnionTwoArrays" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntersectionSortedArrays" />
+        <item itemvalue="Application.LongSubPositivesNeg" />
+        <item itemvalue="Application.LongSubPositive" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.AppearOnce" />
-        <item itemvalue="Application.MaxConsecOnes" />
-        <item itemvalue="Application.IntersectionSortedArrays" />
-        <item itemvalue="Application.UnionTwoArrays" />
       </list>
     </recent_temporary>
   </component>
