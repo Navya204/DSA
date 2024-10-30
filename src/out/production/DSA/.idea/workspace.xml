@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="" />
+    <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/MergeIntervals.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,9 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Application.AppearOnce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubXOR.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntersectionSortedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeaderArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeftRotateByOne.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeftRotateKPlaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongSubPositive.executor&quot;: &quot;Run&quot;,
@@ -45,6 +49,7 @@
     &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.RightRotateKPlaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortZeroOneTwo.executor&quot;: &quot;Run&quot;,
     &quot;Application.UnionTwoArrays.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -52,9 +57,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/B NAVYA/IdeaProjects/DSA/src&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntersectionSortedArrays">
-    <configuration name="AppearOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.AppearOnce" />
+  <component name="RunManager" selected="Application.MergeIntervals">
+    <configuration name="CountSubXOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.CountSubXOR" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.IntersectionSortedArrays" />
+    <configuration name="LeaderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LeaderArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongSubPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LongSubPositive" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MergeIntervals" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongSubPositivesNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LongSubPositivesNeg" />
+    <configuration name="RightRotateKPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RightRotateKPlaces" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MissingNumber" />
+    <configuration name="SortZeroOneTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SortZeroOneTwo" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntersectionSortedArrays" />
-        <item itemvalue="Application.LongSubPositivesNeg" />
-        <item itemvalue="Application.LongSubPositive" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.AppearOnce" />
+        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.LeaderArray" />
+        <item itemvalue="Application.SortZeroOneTwo" />
+        <item itemvalue="Application.CountSubXOR" />
+        <item itemvalue="Application.RightRotateKPlaces" />
       </list>
     </recent_temporary>
   </component>
