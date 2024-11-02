@@ -7,6 +7,7 @@ public class AppearOnce {
 
     }
     public static int appearOnce(int[] arr){
+// the twice appear elements will be cancel
         int unique=0;
         for(int i:arr){
             unique^=i;
