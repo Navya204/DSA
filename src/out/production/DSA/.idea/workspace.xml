@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/BuySellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/MergeSortedArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     "Application.MatrixSetZeroes.executor": "Run",
     "Application.MaxConsecOnes.executor": "Run",
     "Application.MergeIntervals.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MoeZeroes.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
@@ -60,7 +61,7 @@
     "last_opened_file_path": "C:/Users/B NAVYA/IdeaProjects/DSA/src"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BuySellStock">
+  <component name="RunManager" selected="Application.MergeSortedArrays">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.BuySellStock" />
       <module name="DSA" />
@@ -113,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortZeroOneTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SortZeroOneTwo" />
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MergeSortedArrays" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArrays" />
         <item itemvalue="Application.BuySellStock" />
         <item itemvalue="Application.MatrixSetZeroes" />
         <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.LeaderArray" />
-        <item itemvalue="Application.SortZeroOneTwo" />
       </list>
     </recent_temporary>
   </component>
