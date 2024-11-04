@@ -50,6 +50,7 @@
     &quot;Application.MergeSortedArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MoeZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RearrangeArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.RightRotateKPlaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
@@ -61,7 +62,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/B NAVYA/IdeaProjects/DSA/src&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RearrangeArray">
+  <component name="RunManager" selected="Application.ThreeSum">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.BuySellStock" />
       <module name="DSA" />
@@ -77,19 +78,6 @@
     </configuration>
     <configuration name="MatrixSetZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.MatrixSetZeroes" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MergeIntervals" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -127,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ThreeSum" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.RearrangeArray" />
         <item itemvalue="Application.MergeSortedArrays" />
         <item itemvalue="Application.BuySellStock" />
         <item itemvalue="Application.MatrixSetZeroes" />
-        <item itemvalue="Application.MergeIntervals" />
       </list>
     </recent_temporary>
   </component>
