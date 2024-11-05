@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708e2c31-5aeb-4222-8ad0-5f52d3eaa537" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/RearrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ThreeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     &quot;Application.RightRotateKPlaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
     &quot;Application.SortZeroOneTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.UnionTwoArrays.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -62,7 +63,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/B NAVYA/IdeaProjects/DSA/src&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.FourSum">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.BuySellStock" />
       <module name="DSA" />
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixSetZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MatrixSetZeroes" />
+    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.FourSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourSum" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.RearrangeArray" />
         <item itemvalue="Application.MergeSortedArrays" />
         <item itemvalue="Application.BuySellStock" />
-        <item itemvalue="Application.MatrixSetZeroes" />
       </list>
     </recent_temporary>
   </component>
