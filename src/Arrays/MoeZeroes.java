@@ -1,7 +1,7 @@
 package Arrays;
 import java.util.Arrays;
 //problem link:https://leetcode.com/problems/move-zeroes/
-
+//class Name is MoveZeroes
 public class MoeZeroes {
     public static void main(String[] args) {
         int[] nums={1,0,4,0,0,3,5,6};
