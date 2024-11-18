@@ -8,6 +8,7 @@ public class Reverse {
     }
     static int sum=0;
     public static void reverse(int n){
+//Base Condition 
         if(n==0){
             System.out.println(sum);
             return;
