@@ -1,6 +1,7 @@
 package Maths.Euler;
 
 import java.util.Scanner;
+//Euler range
 
 public class EulerRange {
     public static void main(String[] args) {
