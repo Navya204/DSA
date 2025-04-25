@@ -3,7 +3,7 @@ package Oops;
 public class Example3 {
     public static void main(String[] args) {
         Students s1=new Students(1,"navya",2000);
-        Students s2=new Students(2,"chakri",30000);
+        Students s2=new Students(2,"byna",30000);
         Students s3=new Students(3,"rahul",2222);
         System.out.println(Students.population);//this is the right way to access static variables
 //        System.out.println(s1.population);
